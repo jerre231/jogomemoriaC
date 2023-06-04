@@ -1,0 +1,43 @@
+Como jogar:
+
+Para ganhar nesse jogo voce deve encontrar todos os 8 pares separados aleatoriamente na tabela 4x4:
+
+	| 1 | 2 | 3 | 4 |
+	-----------------
+       1|   |   |   |   |
+	-----------------
+       2|   |   | o |   |
+	-----------------
+       3|   |   |   |   |
+	-----------------
+       4|   | i |   |   |
+
+Quando for solicitado, você deve inserir a coordenada da casa que deseja revelar da seguinte forma:
+
+x y (deve ter espaço separando os dois)
+
+Por exemplo, para revelar a casa onde está o "o" você deve inserir:
+
+2 3
+
+e apertar Enter.
+
+Para revelar a casa onde está o "i" você deve inserir:
+
+4 2
+
+Lembrando.:
+
+	x (horizontal):
+
+	---------------
+
+	y (vertical):
+
+	|
+	|
+	|
+	|
+	|
+
+Caso você não acerte o par, as casas que vc revelou desaparecem depois de 2 segundos.
