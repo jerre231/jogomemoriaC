@@ -40,4 +40,4 @@ Lembrando.:
 	|
 	|
 
-Caso você não acerte o par, as casas que vc revelou desaparecem depois de 2 segundos.
+Caso você não acerte o par, as casas que voce revelou desaparecem depois de 2 segundos.
